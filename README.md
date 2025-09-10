@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detector
+# 💳 Credit Card Fraud Detector App
 
 A machine learning-powered application that predicts whether a credit card transaction is **fraudulent** or **legitimate**.  
 The dataset used in this project is a real-world, **highly imbalanced dataset** of credit card transactions, with 29 features including 28 anonymized PCA-transformed variables (`V1–V28`) and the transaction `Amount`. This imbalance makes F1 score a critical metric for evaluating model performance.
